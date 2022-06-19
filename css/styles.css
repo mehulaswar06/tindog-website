@@ -133,3 +133,13 @@ Press */
 .icon-g{
     margin: 20px 10px;
 }
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+  }
+  
+  .icon:hover {
+    color: #ff4c68;
+  }
+  
